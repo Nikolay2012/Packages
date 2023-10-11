@@ -7,7 +7,7 @@
 <!-- <p align="center"> -->
 <!-- # Ліцензія  -->
 <!-- </p> -->
-<h1 aligh= 'center'>Ліцензія</h1>
+<h1 align= 'center'>Ліцензія</h1>
 
 *Ліцензія компанії WorldIT.academy*
 
