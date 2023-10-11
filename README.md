@@ -7,8 +7,8 @@
 <!-- <p align="center"> -->
 <!-- # Ліцензія  -->
 <!-- </p> -->
-|:----:|
-| # Ліцензія |
+<h1 aligh= 'center'>Ліцензія</h1>
+
 *Ліцензія компанії WorldIT.academy*
 
 ![](https://lh3.googleusercontent.com/Tjw4weSmRoTFjLe1WgluGTqYcOF4PsUExfZpKaJGAUdHtSh54OPNLpjp7IlzGvwBHrTVO7_0qgiwEk6N3bmc8-Bt2EC53XzDzMRTgNwKWopn4G4F8jATvJYVunzvQqf-iPyB_CY6)
