@@ -13,4 +13,4 @@
 
 ![](https://lh3.googleusercontent.com/Tjw4weSmRoTFjLe1WgluGTqYcOF4PsUExfZpKaJGAUdHtSh54OPNLpjp7IlzGvwBHrTVO7_0qgiwEk6N3bmc8-Bt2EC53XzDzMRTgNwKWopn4G4F8jATvJYVunzvQqf-iPyB_CY6)
 
-https://worldit.academy.com
+https://www.worldit.academy
